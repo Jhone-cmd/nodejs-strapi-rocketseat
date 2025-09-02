@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "stories",
+  "info": {
+    "singularName": "story",
+    "pluralName": "stories",
+    "displayName": "Story"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "details": {
+      "type": "blocks"
+    },
+    "points": {
+      "type": "integer"
+    },
+    "date_end": {
+      "type": "datetime"
+    }
+  }
+}
