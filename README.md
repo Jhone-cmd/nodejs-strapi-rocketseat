@@ -1,3 +1,8 @@
+# Node.js Strapi Project
+
+Este projeto foi desenvolvido acompanhando as aulas da plataforma [Rocketseat](https://rocketseat.com.br), com o objetivo de aprender e praticar a criação de APIs utilizando o Strapi. Aqui você encontrará uma estrutura pronta para iniciar aplicações Node.js com Strapi, seguindo as melhores práticas ensinadas durante o curso.
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
